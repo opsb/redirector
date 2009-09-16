@@ -1,0 +1,16 @@
+<webapp-structure>
+  <registeredFiles>
+    <entry>
+      <string>currentBuild</string>
+      <path-set>
+        <pathsSet class="linked-hash-set">
+          <string>WEB-INF/web.xml</string>
+          <string>index.jsp</string>
+          <string>WEB-INF/classes/com/informa/web/tools/RedirectorServlet.class</string>
+          <string>WEB-INF/classes/.mavenResources.target.classes</string>
+          <string>WEB-INF/lib/jstl-1.1.2.jar</string>
+        </pathsSet>
+      </path-set>
+    </entry>
+  </registeredFiles>
+</webapp-structure>
